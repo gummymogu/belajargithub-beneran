@@ -1,5 +1,7 @@
 ## Data Diri
 
-* Asal Daerah : Tangerang
-
 * Jurusan : Teknik Fisika
+
+* Fakultas : Fakultas Teknologi Industri
+
+* Universitas : Institut Teknologi Bandung
